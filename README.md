@@ -1,7 +1,7 @@
-TypeScript Gulp Demo
+JavaScript Gulp Specify Output FileName Demo
 ====================
 
-似乎只要安装了ts-node，就可以免配置使用typescript
+想指定输出文件名，还需要使用一个插件 gulp-rename
 
 ```
 npm install

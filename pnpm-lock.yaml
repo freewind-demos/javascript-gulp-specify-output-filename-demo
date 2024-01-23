@@ -8,9 +8,6 @@ devDependencies:
   '@types/gulp':
     specifier: 4.0.17
     version: 4.0.17
-  '@types/gulp-minify':
-    specifier: 3.1.5
-    version: 3.1.5
   '@types/gulp-rename':
     specifier: ^2.0.6
     version: 2.0.6
@@ -84,12 +81,6 @@ packages:
       '@types/node': 20.11.5
       '@types/picomatch': 2.3.3
       '@types/streamx': 2.9.5
-    dev: true
-
-  /@types/gulp-minify@3.1.5:
-    resolution: {integrity: sha512-Dx6dQ/o+FcXJQ0XntPCu7hL5iYMFIudQTnc11Cx9ZoOGA6ycnllqlm6zRwiQpwVm6HrA/GLUwYdU2E2DwXGBAg==}
-    dependencies:
-      '@types/node': 20.11.5
     dev: true
 
   /@types/gulp-rename@2.0.6:
